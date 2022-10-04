@@ -165,5 +165,7 @@
     <properties>
     	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <rat.skip>true</rat.skip>
+	<sonar.organization>ecabrerar</sonar.organization>
+  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 </project>
